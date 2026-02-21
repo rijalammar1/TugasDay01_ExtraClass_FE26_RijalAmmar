@@ -1,2 +1,3 @@
-Jadi pada Bad UI di register form hanya terdapat dua form yaitu email dan password dan tampilan basic tidak ada warna ataupun style, pada form register dan ketika user input password, password tersebut kelihatan tidak secret atau di rubah menjadi *********
-Kemudian saya rubah ke Good UI, kenapa saya rubah ke Good UI karena UI enak di lihat form register lebih lengkap tidak seperti pada form Bad UI, lalu pada saat user input password, password terbsebbut menjadi ****** tidak kalimat pada saat user input password
+Jadi pada Bad UI di register form hanya terdapat dua form yaitu email dan password dan tampilan basic tidak ada warna ataupun style, pada form register dan ketika user input password, password tersebut kelihatan tidak hidden
+
+Kemudian saya rubah ke Good UI, kenapa saya rubah ke Good UI karena UI enak di lihat form register lebih lengkap tidak seperti pada form Bad UI, lalu pada saat user input password, password terbsebbut menjadi hidden tidak kalimat pada saat user input password
